@@ -10,4 +10,8 @@ package proyectogit;
  */
 public class Clientes {
     
+    public Clientes(){
+    
+}
+    
 }
